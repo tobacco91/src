@@ -1,0 +1,2 @@
+var object = document.getElementById("a");
+object.style.color = "red";
